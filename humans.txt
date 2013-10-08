@@ -1,0 +1,27 @@
+# humanstxt.org/
+                            
+/* TEAM */
+             
+Office of Marketing & Communications: University College                            
+Site: http://uc.syr.edu                            
+Twitter: @gosuparttime
+Facebook: https://www.facebook.com/pages/University-College-of-Syracuse-University/137830326322609                         
+Location: University College at Syracuse University, Syracuse New York, United States
+               
+UI/UX Designer/Developer: Devin Kerr                            
+Site: http://www.dkerrcreative.com                            
+Twitter: @unwrittendevin                            
+Location: University College at Syracuse University, Syracuse New York, United States
+
+Graphic Designer/Developer: Elizabeth Serafini                            
+Location: University College at Syracuse University, Syracuse New York, United States
+
+Manager of Information Systems: Jennie McLaughlin                            
+Location: University College at Syracuse University, Syracuse New York, United States
+							
+                            
+/* SITE */                    
+Last update: 2013/10/08                            
+Standards: HTML5, CSS3.       
+Components: Modernizr, jQuery, Twitter Bootstrap.                            
+Software: Adobe Photoshop, Adobe Illustrator, Adobe Dreamweaver, Crunch, Codekit.

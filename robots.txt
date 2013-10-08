@@ -1,0 +1,8 @@
+# robotstxt.org/
+
+User-agent: *
+Disallow: thanks.html
+Disallow: 404.html
+Disallow: /img/
+Disallow: /js/
+Disallow: /less/

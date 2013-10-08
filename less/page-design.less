@@ -1,0 +1,79 @@
+#content{
+    padding: 2em;
+    background: @white;
+    border: 2px solid lighten(@orange, 10%);
+    > h2:first-child{
+        padding-top: 0;
+        margin-top: 0;
+    }
+}
+body{
+    padding: 2em 0;
+}
+#page-header #logo{
+    position: relative;
+    .brand{
+        margin-bottom: -6em;
+        margin-top: -3em;
+    }
+}
+#page-footer{
+    padding-top: 2em;
+    font-size: 87.5%;
+    color: @white;
+    #calls-action{
+        @media (max-width: @screen-xs-max) {
+            padding-top: 2em;
+        }
+    }
+}
+hr.white-bar{
+    border-top-color: @white;
+}
+.block-info{
+    display: block;
+    padding: .5em 1em 0 0;
+    font-size: 90%;
+}
+#content #main ul{
+    padding: 1em 2em;
+    margin: 0;
+    list-style-type: none;
+    li {
+        margin-bottom: 1em;
+    }
+}
+.icons-ul .icon-li{
+    color: @gray-lighter;
+}
+// Text Styles
+label.error, .error, .required{
+    font-size: 87.5%;
+    font-weight: 400;
+    font-style: italic;
+    color: @red;
+}
+.blue{
+    color: @blue;
+}
+.blue-dark{
+    color: @blue-dark;
+}
+.green{
+    color: @green;
+}
+.red{
+    color: @red;
+}
+.orange{
+    color: @orange;
+}
+.orange-light{
+    color: @orange-light;
+}
+.orange-dark{
+    color: @orange-dark;
+}
+.yellow{
+    color: @yellow;
+}
